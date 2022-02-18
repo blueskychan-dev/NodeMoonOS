@@ -98,3 +98,6 @@ ExFAT
 ```
 * Q: i can ask Q&A or issues.
 * A: [Click here](https://github.com/fusedevgithub/NodeMoonOS/issues)
+
+# Also We have a Discord Server!
+[Click Here](https://discord.gg/8MXYYty96y)
