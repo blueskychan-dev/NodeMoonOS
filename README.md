@@ -96,5 +96,5 @@ FAT16
 FAT32
 ExFAT
 ```
-* Q: i can more Q&A or issues.
+* Q: i can ask Q&A or issues.
 * A: [Click here](https://github.com/fusedevgithub/NodeMoonOS/issues)
